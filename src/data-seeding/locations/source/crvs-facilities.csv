@@ -1,18 +1,27 @@
 id,name,partOf,locationType
-2OKicPQMNI,HQ Office,Location/BxrIbNW7f3K,CRVS_OFFICE
-JEhYJ82xRI,Isamba District Office,Location/ntoX1PkiWri,CRVS_OFFICE
-JWMRGwDBXK,Ibombo District Office,Location/oEBf29y8JP8,CRVS_OFFICE
-HKASqwkASD,Itambo District Office,Location/QTtxiWj8ONP,CRVS_OFFICE
-eaBXhNiLMp,Ezhi District Office,Location/ydyJb1RAy4U,CRVS_OFFICE
-okQp4uKCz0,Ilanga District Office,Location/HPGiE9Jjh2r,CRVS_OFFICE
-R5n2eHaSpB,Irundu District Office,Location/SvFNQpplnch,CRVS_OFFICE
-GzanivmNaP,Zobwe District Office,Location/Oapn6R4rt3D,CRVS_OFFICE
-2stAtvOCwl,Afue District Office,Location/nO68NTtcdw2,CRVS_OFFICE
-p9TC08l373,Embe District Office,Location/BxrIbNW7f3K,CRVS_OFFICE
-Hal1YwlBw7,Ienge District Office,Location/NLjvK1QsrN3,CRVS_OFFICE
-OgMqVlKHoN,Funabuli District Office,Location/idR0pJWLqcR,CRVS_OFFICE
-FHTLilSEgD,Pili District Office,Location/FuvOOwvBw0p,CRVS_OFFICE
-jMEPmtRKQ9,Ama District Office,Location/SQT8xjbvWwf,CRVS_OFFICE
-hfFdA2JI3T,Nsali District Office,Location/hywxVKv48Xp,CRVS_OFFICE
-mNCAv7oKj8,Soka District Office,Location/jCJxK8sFH40,CRVS_OFFICE
-H0EaOnzz0a,Chibiya District Office,Location/R22tRIhdm5Y,CRVS_OFFICE
+D1969043,HQ Office,Location/A11,CRVS_OFFICE
+64DBB514,Austrinias District Office,Location/A11,CRVS_OFFICE
+309247F1,Atrias District Office,Location/A12,CRVS_OFFICE
+4AB7F2CE,Aduna District Office,Location/A13,CRVS_OFFICE
+B6C7EEE3,Awima District Office,Location/A14,CRVS_OFFICE
+3BBE9648,Bepula District Office,Location/B11,CRVS_OFFICE
+196E6F4B,Bolunwa District Office,Location/B12,CRVS_OFFICE
+15099F83,Blecin District Office,Location/B13,CRVS_OFFICE
+57DBE9CB,Ciwa District Office,Location/C11,CRVS_OFFICE
+B034EEAC,Clopala District Office,Location/C12,CRVS_OFFICE
+063764D5,Cwelula District Office,Location/C13,CRVS_OFFICE
+962D3263,Calums District Office,Location/C14,CRVS_OFFICE
+A8CF0580,Crepina District Office,Location/C15,CRVS_OFFICE
+77CE6EA1,Deyna District Office,Location/D11,CRVS_OFFICE
+2C6C26DE,Drealas District Office,Location/D12,CRVS_OFFICE
+91732E3C,Dinias District Office,Location/D13,CRVS_OFFICE
+952183C9,Darkwa District Office,Location/D14,CRVS_OFFICE
+D2625FA5,Enuga District Office,Location/E11,CRVS_OFFICE
+DEE572D2,Equinias District Office,Location/E12,CRVS_OFFICE
+D89DE5F6,Edo District Office,Location/E13,CRVS_OFFICE
+38A05713,Ewunaka District Office,Location/E14,CRVS_OFFICE
+FC4839D9,Avada Provincial Office,Location/A11,CRVS_OFFICE
+43F63DD5,Benugo Provincial Office,Location/B11,CRVS_OFFICE
+3EC50AF4,Central Provincial Office,Location/C11,CRVS_OFFICE
+6AFE1EBE,Delta Provincial Office,Location/D11,CRVS_OFFICE
+401DB67E,Eastern Provincial Office,Location/E11,CRVS_OFFICE

@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-24.04
     outputs:
       outcome: ${{ steps.deploy.outcome }}
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - name: Clone core
         uses: actions/checkout@v3
