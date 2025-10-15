@@ -10,19 +10,17 @@ all:
   vars:
     single_node: true
     users:
-      # @todo this is where you define which development team members have access to the server.
-      # If you need to remove access from someone, do not remove them from this list, but instead set their state: absent
-      - name: my-user
+      - name: chamath
         ssh_keys:
-          - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABg...Z/rhU= user@example.com
+          - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCES87+j7JgjXyiMcdRy1axdV+Q6axEnSQm4ht77kzUzwCqxGuTNwMnnAF5L6V+o+SNK8Nes4+VlH78eGEsD/d4cC6VEB6r4GSSxMCYynh7C9FbJFV/22FSbpw4v6OBMr8FaP74KrxhH10JARX4MBY0NzTMtTrf3/KpcrEqcTISDXbRS5ZZ2QzDAZUbc9FvGbds7nC99NLeP47p8m8FMdVlsaYREx1VFgGnx4JJK8FJedwjDOkBs+2hFn3l1XlG9c1MY3YJuNPpZPune1RxfCstDdabqeykxyJPDPnIrpIMKFGEVzBDi7+tgk3g6Yt55w9p6Jo7N+e9tmhPOhIzdFSB
         state: present
         sudoer: true
     enable_backups: false
 docker-manager-first:
   hosts:
-    dev: # @todo set this to be the hostname of your target server
-      ansible_host: '44.44.44.44' # @todo set this to be the IP address of your server
-      data_label: data1 # for manager machines, this should always be "data1"
+    ip-10-68-0-43:
+      ansible_host: '54.251.50.226'
+      data_label: data1
 
 # Development servers are not configured to use workers.
 docker-workers: {}
